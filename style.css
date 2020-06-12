@@ -1,0 +1,153 @@
+body{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+::selection{
+    color: rgb(0, 0, 0);
+    background-color: #92f053;
+    text-shadow: 4px 4px 5px rgb(0, 0, 0);
+}
+.w-of-logo{
+    height: 90px;
+}
+.container{
+    margin-top: 2%;
+}
+.change-button{
+   background-image: linear-gradient(to right, rgb(255, 25, 25),black);
+}
+.carousel-item{
+    padding: 20px 30px;
+    height: 450px;
+    margin-bottom: 3.6%;
+}
+.w-of-item{
+     padding-top: 2.5%;
+     padding-left: 2.5%;
+}
+.bg-light{
+    background-color: #ffffff !important;
+}
+.price{
+    color: rgb(218, 40, 93);
+    font-weight: 600;
+}
+.more{
+    font-weight: 450;
+    font-size: 18px;
+    color: rgb(24, 23, 23);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.h-text-shadow{
+    color: black;
+    font-weight: 900;
+    cursor: pointer;
+    line-height: 75px;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+.s-header{
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    cursor: pointer;
+    line-height: 45px;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+.h-text-shadow:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 8px rgb(0, 0, 0);
+}
+p{
+    color: dimgray;
+    text-align: justify;
+    font-size: 15px;
+}
+.button{
+    background-image: linear-gradient(to bottom right,rgb(39, 39, 39),rgb(122, 33, 223));
+    border: none;
+    margin-top: 7px;
+    margin-bottom: -4%;
+}
+.button:hover{
+    box-shadow: 2px 4px 20px rgb(142, 8, 196);
+}
+.pointer{
+    cursor: pointer;
+}
+.card img{
+    height: 230px;
+    width: 255px;
+    background: none;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px  10px lightgray;
+ }
+ .first-section{
+    padding-top: 5%;
+ }
+.bg-top{
+    background-image: linear-gradient(to top left,rgb(255, 255, 255) 5%,rgb(255, 255, 255));
+    box-shadow: 3px 3px 15px rgb(233, 233, 233);
+}
+.second-section{
+    margin-top: 5%;
+}
+.i-text-shadow{
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+    cursor: pointer;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+.a-text-shadow{
+    color: rgb(24, 143, 255);
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 2px 5px !important;
+    margin-top: 6%;
+}
+.border{
+    color: black;
+    background-color: black;
+    padding: 3px 60px;
+    margin-top: -1.2%;
+    border-radius: 25px;
+    background-image: linear-gradient(to right,rgb(66, 163, 255),rgb(188, 42, 224));
+}
+.bottom-section{
+    height: 600px;
+    background-image: url(more-product-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: none;
+    margin-top: 5%;
+}
+.border-img{
+    box-shadow:4px 4px 15px lightgray ;
+}
+.padding{
+    padding: 17px  25px;
+    margin-left: -5%;
+}
+.margin{
+    margin-top: 15%;
+}
+.padding-apple-watch{
+    padding-left: 7px;
+}
+.f-shadow{
+    text-shadow: 2px 2px 8px rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 30px;
+}
+.f-shadow:hover{
+    color: white;
+    text-shadow: 3px 3px 10px rgb(0, 0, 0);
+}
+.height-of-img{
+    height: 350px;
+}
